@@ -1,4 +1,4 @@
-module github.com/openstack-k8s-operators/lib-common/modules/common
+module github.com/jlarriba/lib-common/modules/common
 
 go 1.19
 
